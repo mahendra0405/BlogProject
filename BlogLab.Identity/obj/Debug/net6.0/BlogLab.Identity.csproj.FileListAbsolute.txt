@@ -1,0 +1,17 @@
+C:\Blog Project\BlogLab\BlogLab.Identity\bin\Debug\net6.0\BlogLab.Identity.deps.json
+C:\Blog Project\BlogLab\BlogLab.Identity\bin\Debug\net6.0\BlogLab.Identity.dll
+C:\Blog Project\BlogLab\BlogLab.Identity\bin\Debug\net6.0\BlogLab.Identity.pdb
+C:\Blog Project\BlogLab\BlogLab.Identity\bin\Debug\net6.0\BlogLab.Models.dll
+C:\Blog Project\BlogLab\BlogLab.Identity\bin\Debug\net6.0\BlogLab.Repository.dll
+C:\Blog Project\BlogLab\BlogLab.Identity\bin\Debug\net6.0\BlogLab.Models.pdb
+C:\Blog Project\BlogLab\BlogLab.Identity\bin\Debug\net6.0\BlogLab.Repository.pdb
+C:\Blog Project\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.csproj.AssemblyReference.cache
+C:\Blog Project\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Blog Project\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.AssemblyInfoInputs.cache
+C:\Blog Project\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.AssemblyInfo.cs
+C:\Blog Project\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.csproj.CoreCompileInputs.cache
+C:\Blog Project\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.csproj.CopyComplete
+C:\Blog Project\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.dll
+C:\Blog Project\BlogLab\BlogLab.Identity\obj\Debug\net6.0\refint\BlogLab.Identity.dll
+C:\Blog Project\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.pdb
+C:\Blog Project\BlogLab\BlogLab.Identity\obj\Debug\net6.0\ref\BlogLab.Identity.dll
