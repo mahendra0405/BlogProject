@@ -27,7 +27,14 @@ steps:
     msbuildArgs: '/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:DesktopBuildPackageLocation="$(build.artifactStagingDirectory)\WebApp.zip" /p:DeployIisAppPath="Default Web Site"'
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
-
-- task: WhiteSource@21
+- task: SonarCloudPrepare@1
   inputs:
-    cwd: '$(System.DefaultWorkingDirectory)'
+    SonarCloud: 'SonarQube'
+    organization: 'mahendra0405'
+    scannerMode: 'MSBuild'
+    projectKey: 'BlogProject'
+    projectName: 'BlogProject'
+- task: SonarCloudAnalyze@1
+- task: SonarCloudPublish@1
+  inputs:
+    pollingTimeoutSec: '300'
